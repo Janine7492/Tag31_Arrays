@@ -1,0 +1,12 @@
+const array1 = [23, 54, 75];
+console.log(array1);
+array1.push(55, 66, 77, 88, 99);
+console.log(array1);
+array1.unshift(3, 5, 7, 9, 13);
+console.log(array1);
+array1.pop();
+array1.pop();
+console.log(array1);
+array1.shift();
+array1.shift();
+console.log(array1);
